@@ -3,3 +3,5 @@
 ## Kurulum
 
 - npm install komutu ile kurabilirsiniz
+
+## Yenilikler
